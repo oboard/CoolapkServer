@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">酷安验证服务</string>
+    <string name="button">为服务器提供今天的Token</string>
+    <string name="about">https://github.com/oboard/CoolapkServer</string>
+    <string name="text">轻触按钮开始上传...</string>
+
+</resources>
